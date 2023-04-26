@@ -1,0 +1,7 @@
+hiii
+1. command git init (initial)
+2. git status
+3. git add .
+4  git commit -m"first commit"
+5. git branch // 
+6. git push -u origin master
